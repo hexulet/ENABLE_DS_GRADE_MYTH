@@ -1,0 +1,6 @@
+// Search:
+	DRAGON_SOUL_GRADE_MAX,
+// Add before:
+#ifdef ENABLE_DS_GRADE_MYTH
+	DRAGON_SOUL_GRADE_MYTH,
+#endif
